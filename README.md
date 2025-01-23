@@ -11,7 +11,7 @@ Outputs from **Nessus** scans in **CSV** format are a bit hard to read. For this
 
 ## Prerequisites
 
-Ensure you have Python 3.7+ installed on your system. Required Python libraries:
+Ensure you have Python 3+ installed on your system. Required Python libraries:
 - `pandas`
 - `xlsxwriter`
 
