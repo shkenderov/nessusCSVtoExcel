@@ -16,8 +16,8 @@ Ensure you have Python 3+ installed on your system. Required Python libraries:
 - `xlsxwriter`
 
 Install dependencies with:
-``` pip 
-install pandas xlsxwriter 
+```
+pip install pandas xlsxwriter 
 ```
 
 
