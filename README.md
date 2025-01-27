@@ -24,12 +24,12 @@ pip install pandas xlsxwriter
 ## Usage
 
 ```
-python script.py <csv_file> <excel_file>
+python nessusCsvConverter.py <csv_file> <excel_file>
 ```
 
 ### Example: 
 ```
-python script.py raw_data.csv formatted_output.xlsx
+python nessusCsvConverter.py raw_data.csv formatted_output.xlsx
 ```
 
 ### Arguments: 
@@ -42,5 +42,5 @@ python script.py raw_data.csv formatted_output.xlsx
 
 ## Help 
 ``` 
-python script.py --help
+python nessusCsvConverter.py --help
 ```
